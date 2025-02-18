@@ -70,7 +70,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.google.com/imgres?q=flask%20in%20python%20logo%20svg&imgurl=https%3A%2F%2Ficon.icepanel.io%2FTechnology%2Fsvg%2FFlask.svg&imgrefurl=https%3A%2F%2Ftechicons.dev%2Ficons%2Fflask&docid=-eAL-Jws0-W80M&tbnid=gKA5t4y7J3oT1M&vet=12ahUKEwiErP_t0c2LAxWGUGcHHcldAYwQM3oECBwQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiErP_t0c2LAxWGUGcHHcldAYwQM3oECBwQAA)" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
